@@ -1,0 +1,39 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.title
+{
+    color: blueviolet;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.nav
+{
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav li
+{
+    display: inline-block;
+}
+
+.nav a
+{
+    color: white;
+    background-color: rgb(20, 163, 96);
+    padding: 6px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.nav .blog
+{
+    background-color: yellowgreen;
+}

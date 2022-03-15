@@ -1,0 +1,19 @@
+/* Elemento */
+p
+{
+    color: aquamarine;
+    font-size: 28px;
+}
+
+/* Clase */
+.parrafo
+{
+    color: red;
+}
+
+/* ID */
+#par
+{
+    color: blue;
+    font-size: 40px;
+}

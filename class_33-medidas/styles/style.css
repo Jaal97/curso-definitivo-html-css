@@ -1,0 +1,11 @@
+main
+{
+    background-color: limegreen;
+    width: 100vw;
+    height: 100vh;
+}
+
+p
+{
+    font-size: 16px;
+}
